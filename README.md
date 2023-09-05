@@ -1,1 +1,1 @@
-<script src="static/js/jquery.min.js"></script> 
+CSP Test
